@@ -1,0 +1,49 @@
+.heading-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    margin: 0 0 50px 0;
+}
+
+.screen-sub-heading{
+    letter-spacing: 3px;
+    margin: 8px 0 18px 0;
+    font-size: 12px;
+    color: black;
+
+}
+.screen-heading{
+    font-size: 32px;
+    color: #9ba5e6;
+    font-family: "Poppins Bold";
+}
+
+.heading-separator{
+    display: flex;
+    align-items: center;
+    position: relative;
+    width: 180px;
+    margin: 10px 0 0 0 ;
+
+}
+.separator-line {
+    width: 100%;
+    height: 2px;
+    background-color: #9ba5e6;
+    margin: 0px 0 0 0 ;
+}
+
+.separator-blob{
+    height: 3px;
+    width: 100%;
+    position: inherit;
+    display: flex;
+    justify-content: center;
+}
+.separator-blob div{
+    width: 40px;
+    border-radius: 10px;
+    background-color: #1f2235;
+  
+}
