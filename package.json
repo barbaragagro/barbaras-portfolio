@@ -8,7 +8,7 @@
     "server": "nodemon server.js",
     "barbaras-portfolio": "npm start --prefix barbaras-portfolio",
     "dev": "concurrently \"npm run server\" \"npm run barbaras-portfolio\"",
-    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix barbaras-portfolio && npm run build --prefix barbaras-portfolio"
+    
   },
   "keywords": [],
   "author": "",
@@ -18,7 +18,6 @@
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
-    "heroku": "^7.66.2",
     "nodemailer": "^6.8.0",
     "nodemon": "^2.0.20"
   }
