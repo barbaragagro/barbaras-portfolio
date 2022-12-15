@@ -1,0 +1,28 @@
+.bulletClass{
+   color: #9ba5e6;
+}
+.projectClass{
+    margin: 10px;
+}
+.project-between{
+    padding-top: 70px;;
+}
+.project-details {
+    width: 100%;
+    text-align: justify;
+    padding: 30px;
+  }
+   .proj-sub-heading {
+    font-size: 14px;
+    font-family: "Poppins SemiBold";
+    color: var(--black);
+    margin: 10px 0 0 0;
+  }
+  .proj-heading-description {
+    font-size: 12px;
+    text-align: justify;
+  }
+  .paddingClass{
+    padding-top: 20px;
+  }
+  

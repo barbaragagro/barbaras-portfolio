@@ -16,7 +16,7 @@ export default function Profile() {
 
                     <a href='https://github.com/barbaragagro'>
                        
-                        <i class="fa-brands fa-square-github fa-2xl"></i>
+                        <i className="fa-brands fa-square-github fa-2xl"></i>
 
                     
                     </a>
