@@ -7,8 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "server": "nodemon server.js",
     "barbaras-portfolio": "npm start --prefix barbaras-portfolio",
-    "dev": "concurrently \"npm run server\" \"npm run barbaras-portfolio\"",
-    
+    "dev": "concurrently \"npm run server\" \"npm run barbaras-portfolio\""
   },
   "keywords": [],
   "author": "",
